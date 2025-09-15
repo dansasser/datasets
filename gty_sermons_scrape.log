@@ -1,0 +1,292 @@
+[2025-09-14 20:26:09,047] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title
+[2025-09-14 20:26:11,415] Found 89 sermon URLs. Starting download...
+[2025-09-14 20:26:13,540] NO TRANSCRIPT for: https://www.gty.org/sermons/1203/abolishing-death-the-ultimate-triumph
+[2025-09-14 20:26:15,669] NO TRANSCRIPT for: https://www.gty.org/sermons/1269/and-now-for-the-good-news
+[2025-09-14 20:26:17,739] NO TRANSCRIPT for: https://www.gty.org/sermons/1285/abounding-in-the-work-of-the-lord
+[2025-09-14 20:26:19,846] NO TRANSCRIPT for: https://www.gty.org/sermons/1361/angels-gods-invisible-army-part-1
+[2025-09-14 20:26:21,853] NO TRANSCRIPT for: https://www.gty.org/sermons/1362/angels-gods-invisible-army-part-2
+[2025-09-14 20:26:24,387] NO TRANSCRIPT for: https://www.gty.org/sermons/1363/angels-gods-invisible-army-part-3
+[2025-09-14 20:26:26,262] NO TRANSCRIPT for: https://www.gty.org/sermons/1624/apostasy-the-negative-response-to-the-new-covenant-part-1
+[2025-09-14 20:26:28,265] NO TRANSCRIPT for: https://www.gty.org/sermons/1625/apostasy-the-negative-response-to-the-new-covenant-part-2
+[2025-09-14 20:26:31,469] NO TRANSCRIPT for: https://www.gty.org/sermons/1627/abel-and-the-life-of-faith
+[2025-09-14 20:26:31,949] Task was destroyed but it is pending!
+task: <Task pending name='Task-26' coro=<Page.goto() done, defined at C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_page.py:549> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py:228]>
+[2025-09-14 20:30:31,882] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title
+[2025-09-14 20:30:34,336] Found 89 sermon URLs. Starting download...
+[2025-09-14 20:30:37,038] [1/89] Saved: Unknown Title (, 13216 words)
+[2025-09-14 20:30:40,417] [2/89] Saved: Unknown Title (, 7086 words)
+[2025-09-14 20:30:43,404] [3/89] Saved: Unknown Title (, 22082 words)
+[2025-09-14 20:30:45,986] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:32:27,582] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title
+[2025-09-14 20:32:29,877] Found 89 sermon URLs. Starting download...
+[2025-09-14 20:32:32,091] [1/89] Saved: Abolishing Death:  The Ultimate Triumph (, 13216 words)
+[2025-09-14 20:32:35,273] [2/89] Saved: And Now for the Good News (, 7086 words)
+[2025-09-14 20:32:38,234] [3/89] Saved: Abounding in the Work of the Lord (, 22082 words)
+[2025-09-14 20:32:41,767] [4/89] Saved: Angels:  God's Invisible Army, Part 1 (, 16342 words)
+[2025-09-14 20:32:45,540] [5/89] Saved: Angels:  God's Invisible Army, Part 2 (, 17768 words)
+[2025-09-14 20:32:47,589] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:35:51,393] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title
+[2025-09-14 20:35:54,289] Found 89 sermon URLs. Starting download...
+[2025-09-14 20:35:58,400] [1/89] Saved: Abolishing Death:  The Ultimate Triumph (, 13216 words)
+[2025-09-14 20:36:04,359] [2/89] Saved: And Now for the Good News (, 7086 words)
+[2025-09-14 20:36:09,358] [3/89] Saved: Abounding in the Work of the Lord (, 22092 words)
+[2025-09-14 20:36:14,984] [4/89] Saved: Angels:  God's Invisible Army, Part 1 (, 16416 words)
+[2025-09-14 20:36:20,054] [5/89] Saved: Angels:  God's Invisible Army, Part 2 (, 17834 words)
+[2025-09-14 20:36:25,377] [6/89] Saved: Angels:  God's Invisible Army, Part 3 (, 16806 words)
+[2025-09-14 20:36:30,496] [7/89] Saved: Apostasy:  The Negative Response to the New Covenant, Part 1 (, 16666 words)
+[2025-09-14 20:38:30,941] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:38:30,941] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:39:39,273] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title
+[2025-09-14 20:39:41,519] Found 89 sermon URLs. Starting download...
+[2025-09-14 20:39:44,979] [1/89] Saved: Abolishing Death:  The Ultimate Triumph (, 13216 words)
+[2025-09-14 20:39:49,531] [2/89] Saved: And Now for the Good News (, 7086 words)
+[2025-09-14 20:39:56,598] [3/89] Saved: Abounding in the Work of the Lord (, 22092 words)
+[2025-09-14 20:40:02,042] [4/89] Saved: Angels:  God's Invisible Army, Part 1 (, 16416 words)
+[2025-09-14 20:40:07,170] [5/89] Saved: Angels:  God's Invisible Army, Part 2 (, 17834 words)
+[2025-09-14 20:40:12,247] [6/89] Saved: Angels:  God's Invisible Army, Part 3 (, 16806 words)
+[2025-09-14 20:40:17,855] [7/89] Saved: Apostasy:  The Negative Response to the New Covenant, Part 1 (, 16666 words)
+[2025-09-14 20:40:23,011] [8/89] Saved: Apostasy: The Negative Response to the New Covenant, Part 2 (, 20480 words)
+[2025-09-14 20:40:28,168] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:40:28,168] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:41:39,943] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title
+[2025-09-14 20:41:43,248] Found 89 sermon URLs. Starting download...
+[2025-09-14 20:41:47,937] [1/89] Saved: Abolishing Death:  The Ultimate Triumph (, 13216 words)
+[2025-09-14 20:41:53,010] [2/89] Saved: And Now for the Good News (, 7086 words)
+[2025-09-14 20:41:58,877] [3/89] Saved: Abounding in the Work of the Lord (, 22092 words)
+[2025-09-14 20:42:04,887] [4/89] Saved: Angels:  God's Invisible Army, Part 1 (, 16416 words)
+[2025-09-14 20:42:10,422] [5/89] Saved: Angels:  God's Invisible Army, Part 2 (, 17834 words)
+[2025-09-14 20:42:15,915] [6/89] Saved: Angels:  God's Invisible Army, Part 3 (, 16806 words)
+[2025-09-14 20:42:22,232] [7/89] Saved: Apostasy:  The Negative Response to the New Covenant, Part 1 (, 16666 words)
+[2025-09-14 20:42:27,126] [8/89] Saved: Apostasy: The Negative Response to the New Covenant, Part 2 (, 20480 words)
+[2025-09-14 20:42:32,275] [9/89] Saved: Abel and the Life of Faith (, 22452 words)
+[2025-09-14 20:42:37,826] [10/89] Saved: All Things are Yours (, 17116 words)
+[2025-09-14 20:42:42,238] [11/89] Saved: Amazing Unbelief (, 16130 words)
+[2025-09-14 20:42:47,832] [12/89] Saved: Amazing Unbelief (, 16130 words)
+[2025-09-14 20:42:53,404] [13/89] Saved: All Things Possible (, 15380 words)
+[2025-09-14 20:42:59,958] [14/89] Saved: All Things Possible (, 15380 words)
+[2025-09-14 20:43:04,297] [15/89] Saved: Amazement at the Empty Tomb (, 15600 words)
+[2025-09-14 20:43:10,574] [16/89] Saved: Amazement at the Empty Tomb (, 15600 words)
+[2025-09-14 20:43:15,779] [17/89] Saved: An Addendum on Faith (, 13578 words)
+[2025-09-14 20:43:21,970] [18/89] Saved: Anxiety-Free Living, Part 1 (, 13978 words)
+[2025-09-14 20:43:27,253] [19/89] Saved: Anxiety-Free Living, Part 2 (, 14332 words)
+[2025-09-14 20:43:32,729] [20/89] Saved: Anxiety-Free Living, Part 3 (, 11056 words)
+[2025-09-14 20:43:38,945] [21/89] Saved: Are Just a Few Being Saved? Part 1 (, 16286 words)
+[2025-09-14 20:43:44,942] [22/89] Saved: Are Just a Few Being Saved? Part 2 (, 17300 words)
+[2025-09-14 20:43:50,338] [23/89] Saved: Approaching the Cross with Determined Anticipation, Part 1 (, 15390 words)
+[2025-09-14 20:43:55,214] [24/89] Saved: Approaching the Cross with Determined Anticipation, Part 2 (, 13450 words)
+[2025-09-14 20:44:01,025] [25/89] Saved: Approaching the Cross with Determined Anticipation, Part 2 (, 13450 words)
+[2025-09-14 20:44:05,774] [26/89] Saved: Abusing the Poor (, 13062 words)
+[2025-09-14 20:44:11,910] [27/89] Saved: Abusing the Poor (, 13062 words)
+[2025-09-14 20:44:17,357] [28/89] Saved: Are You the Coming One? (, 14246 words)
+[2025-09-14 20:44:22,344] [29/89] Saved: Answering Tough Questions About the Christian and Government (, 9528 words)
+[2025-09-14 20:44:27,665] [30/89] Saved: Abandoned by God, Part 1 (, 17750 words)
+[2025-09-14 20:44:33,584] [31/89] Saved: Abandoned by God, Part 2 (, 14678 words)
+[2025-09-14 20:44:38,858] [32/89] Saved: Abraham--Justified by Faith, Part 1 (, 11458 words)
+[2025-09-14 20:44:44,086] [33/89] Saved: Abraham--Justified by Faith, Part 2 (, 15682 words)
+[2025-09-14 20:44:49,545] [34/89] Saved: Abraham--Justified by Faith, Part 3 (, 15730 words)
+[2025-09-14 20:44:55,332] [35/89] Saved: Abraham--Justified by Grace, Part 1 (, 18890 words)
+[2025-09-14 20:45:01,141] [36/89] Saved: Abraham--Justified by Grace, Part 2 (, 18590 words)
+[2025-09-14 20:45:13,932] [37/89] Saved: Adam and the Reign of Death (, 19210 words)
+[2025-09-14 20:45:26,728] [38/89] Saved: Accents of Love (, 16660 words)
+[2025-09-14 20:45:31,859] [39/89] Saved: Abstaining from Sexual Sin, Part 1 (, 12764 words)
+[2025-09-14 20:45:37,410] [40/89] Saved: Abstaining from Sexual Sin, Part 2 (, 14514 words)
+[2025-09-14 20:45:42,623] [41/89] Saved: Adoring God for Our Eternal Inheritance, Part 1 (, 12422 words)
+[2025-09-14 20:45:48,250] [42/89] Saved: Adoring God for Our Eternal Inheritance, Part 2 (, 14762 words)
+[2025-09-14 20:45:53,448] [43/89] Saved: Apostates, Be Warned, Part 1 (, 13982 words)
+[2025-09-14 20:45:58,503] [44/89] Saved: Apostates, Be Warned, Part 2 (, 16728 words)
+[2025-09-14 20:46:03,783] [45/89] Saved: Apostates Illustrated (, 16164 words)
+[2025-09-14 20:46:09,875] [46/89] Saved: Angelic Messengers (, 15270 words)
+[2025-09-14 20:46:15,874] [47/89] Saved: Alive Through Christ's Death (, 11842 words)
+[2025-09-14 20:46:20,284] [48/89] Saved: Abraham: The Old Testament Pattern of Saving Faith, Part 1 (, 14384 words)
+[2025-09-14 20:46:25,619] [49/89] Saved: Abraham: The Old Testament Pattern of Saving Faith, Part 1 (, 14384 words)
+[2025-09-14 20:46:30,240] [50/89] Saved: Abraham: The Old Testament Pattern of Saving Faith, Part 2 (, 11776 words)
+[2025-09-14 20:46:35,540] [51/89] Saved: Abraham: The Old Testament Pattern of Saving Faith, Part 2 (, 11776 words)
+[2025-09-14 20:46:39,875] [52/89] Saved: Abraham: The Old Testament Pattern of Saving Faith, Part 3 (, 12232 words)
+[2025-09-14 20:46:47,016] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:46:47,016] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:46:57,390] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=A
+[2025-09-14 20:47:00,527] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=B
+[2025-09-14 20:47:03,645] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=C
+[2025-09-14 20:47:06,444] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=D
+[2025-09-14 20:47:09,272] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=E
+[2025-09-14 20:47:12,243] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=F
+[2025-09-14 20:47:15,231] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=G
+[2025-09-14 20:47:18,065] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=H
+[2025-09-14 20:47:21,067] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=I
+[2025-09-14 20:47:23,981] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=J
+[2025-09-14 20:47:26,745] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=K
+[2025-09-14 20:47:29,477] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=L
+[2025-09-14 20:47:32,302] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=M
+[2025-09-14 20:47:35,347] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=N
+[2025-09-14 20:47:38,208] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=O
+[2025-09-14 20:47:41,351] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=P
+[2025-09-14 20:47:44,600] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=Q
+[2025-09-14 20:47:47,481] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=R
+[2025-09-14 20:47:50,784] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=S
+[2025-09-14 20:47:54,105] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=T
+[2025-09-14 20:47:57,206] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=U
+[2025-09-14 20:48:00,307] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=V
+[2025-09-14 20:48:03,378] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=W
+[2025-09-14 20:48:06,984] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=X
+[2025-09-14 20:48:10,000] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=Y
+[2025-09-14 20:48:12,881] Loading GTY sermons archive: https://www.gty.org/sermons/archive?tab=title&letter=Z
+[2025-09-14 20:48:15,138] Found 89 sermon URLs. Starting download...
+[2025-09-14 20:48:18,508] [1/89] Saved: Abolishing Death:  The Ultimate Triumph (, 13216 words)
+[2025-09-14 20:48:24,039] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:48:24,039] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:51:08,279] Letter 'A' tab not found (may be missing).
+[2025-09-14 20:51:08,385] Letter 'B' tab not found (may be missing).
+[2025-09-14 20:51:08,451] Letter 'C' tab not found (may be missing).
+[2025-09-14 20:51:08,517] Letter 'D' tab not found (may be missing).
+[2025-09-14 20:51:08,585] Letter 'E' tab not found (may be missing).
+[2025-09-14 20:51:08,668] Letter 'F' tab not found (may be missing).
+[2025-09-14 20:51:08,734] Letter 'G' tab not found (may be missing).
+[2025-09-14 20:51:08,801] Letter 'H' tab not found (may be missing).
+[2025-09-14 20:51:08,868] Letter 'I' tab not found (may be missing).
+[2025-09-14 20:51:08,951] Letter 'J' tab not found (may be missing).
+[2025-09-14 20:51:09,018] Letter 'K' tab not found (may be missing).
+[2025-09-14 20:51:09,134] Letter 'L' tab not found (may be missing).
+[2025-09-14 20:51:09,201] Letter 'M' tab not found (may be missing).
+[2025-09-14 20:51:09,268] Letter 'N' tab not found (may be missing).
+[2025-09-14 20:51:09,380] Letter 'O' tab not found (may be missing).
+[2025-09-14 20:51:09,475] Letter 'P' tab not found (may be missing).
+[2025-09-14 20:51:09,541] Letter 'Q' tab not found (may be missing).
+[2025-09-14 20:51:09,623] Letter 'R' tab not found (may be missing).
+[2025-09-14 20:51:09,727] Letter 'S' tab not found (may be missing).
+[2025-09-14 20:51:09,800] Letter 'T' tab not found (may be missing).
+[2025-09-14 20:51:09,868] Letter 'U' tab not found (may be missing).
+[2025-09-14 20:51:09,918] Letter 'V' tab not found (may be missing).
+[2025-09-14 20:51:10,001] Letter 'W' tab not found (may be missing).
+[2025-09-14 20:51:10,068] Letter 'X' tab not found (may be missing).
+[2025-09-14 20:51:10,171] Letter 'Y' tab not found (may be missing).
+[2025-09-14 20:51:10,301] Letter 'Z' tab not found (may be missing).
+[2025-09-14 20:51:10,483] Found 89 sermon URLs. Starting download...
+[2025-09-14 20:57:36,311] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:57:36,312] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:57:46,724] Found 89 sermon URLs. Starting download...
+[2025-09-14 20:57:50,789] [1/89] Saved: Abolishing Death:  The Ultimate Triumph (, 13216 words)
+[2025-09-14 20:57:56,556] [2/89] Saved: And Now for the Good News (, 7086 words)
+[2025-09-14 20:58:02,072] [3/89] Saved: Abounding in the Work of the Lord (, 22092 words)
+[2025-09-14 20:58:07,319] [4/89] Saved: Angels:  God's Invisible Army, Part 1 (, 16416 words)
+[2025-09-14 20:58:12,689] [5/89] Saved: Angels:  God's Invisible Army, Part 2 (, 17834 words)
+[2025-09-14 20:58:15,431] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 20:58:15,439] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+[2025-09-14 21:02:08,546] Found 89 sermon URLs. Starting download...
+[2025-09-14 21:02:12,215] [1/89] Saved: Abolishing Death:  The Ultimate Triumph (, 13216 words)
+[2025-09-14 21:02:16,984] [2/89] Saved: And Now for the Good News (, 7086 words)
+[2025-09-14 21:02:22,195] [3/89] Saved: Abounding in the Work of the Lord (, 22092 words)
+[2025-09-14 21:02:28,086] [4/89] Saved: Angels:  God's Invisible Army, Part 1 (, 16416 words)
+[2025-09-14 21:02:33,105] [5/89] Saved: Angels:  God's Invisible Army, Part 2 (, 17834 words)
+[2025-09-14 21:02:38,730] [6/89] Saved: Angels:  God's Invisible Army, Part 3 (, 16806 words)
+[2025-09-14 21:02:44,410] [7/89] Saved: Apostasy:  The Negative Response to the New Covenant, Part 1 (, 16666 words)
+[2025-09-14 21:02:50,961] [8/89] Saved: Apostasy: The Negative Response to the New Covenant, Part 2 (, 20480 words)
+[2025-09-14 21:02:56,108] [9/89] Saved: Abel and the Life of Faith (, 22452 words)
+[2025-09-14 21:03:01,391] [10/89] Saved: All Things are Yours (, 17116 words)
+[2025-09-14 21:03:05,752] [11/89] Saved: Amazing Unbelief (, 16130 words)
+[2025-09-14 21:03:12,280] [12/89] Skipped duplicate content hash: Amazing Unbelief
+[2025-09-14 21:03:15,628] [13/89] Saved: All Things Possible (, 15380 words)
+[2025-09-14 21:03:21,177] [14/89] Skipped duplicate content hash: All Things Possible
+[2025-09-14 21:03:24,526] [15/89] Saved: Amazement at the Empty Tomb (, 15600 words)
+[2025-09-14 21:03:29,903] [16/89] Skipped duplicate content hash: Amazement at the Empty Tomb
+[2025-09-14 21:03:33,708] [17/89] Saved: An Addendum on Faith (, 13578 words)
+[2025-09-14 21:03:38,900] [18/89] Saved: Anxiety-Free Living, Part 1 (, 13978 words)
+[2025-09-14 21:03:43,925] [19/89] Saved: Anxiety-Free Living, Part 2 (, 14332 words)
+[2025-09-14 21:03:48,836] [20/89] Saved: Anxiety-Free Living, Part 3 (, 11056 words)
+[2025-09-14 21:03:54,111] [21/89] Saved: Are Just a Few Being Saved? Part 1 (, 16286 words)
+[2025-09-14 21:03:59,608] [22/89] Saved: Are Just a Few Being Saved? Part 2 (, 17300 words)
+[2025-09-14 21:04:04,483] [23/89] Saved: Approaching the Cross with Determined Anticipation, Part 1 (, 15390 words)
+[2025-09-14 21:04:08,730] [24/89] Saved: Approaching the Cross with Determined Anticipation, Part 2 (, 13450 words)
+[2025-09-14 21:04:14,061] [25/89] Skipped duplicate content hash: Approaching the Cross with Determined Anticipation, Part 2
+[2025-09-14 21:04:17,844] [26/89] Saved: Abusing the Poor (, 13062 words)
+[2025-09-14 21:04:23,060] [27/89] Skipped duplicate content hash: Abusing the Poor
+[2025-09-14 21:04:27,457] [28/89] Saved: Are You the Coming One? (, 14246 words)
+[2025-09-14 21:04:35,754] [29/89] Saved: Answering Tough Questions About the Christian and Government (, 9528 words)
+[2025-09-14 21:04:43,432] [30/89] Saved: Abandoned by God, Part 1 (, 17750 words)
+[2025-09-14 21:04:48,626] [31/89] Saved: Abandoned by God, Part 2 (, 14678 words)
+[2025-09-14 21:04:54,782] [32/89] Saved: Abraham--Justified by Faith, Part 1 (, 11458 words)
+[2025-09-14 21:05:00,501] [33/89] Saved: Abraham--Justified by Faith, Part 2 (, 15682 words)
+[2025-09-14 21:05:06,060] [34/89] Saved: Abraham--Justified by Faith, Part 3 (, 15730 words)
+[2025-09-14 21:05:11,342] [35/89] Saved: Abraham--Justified by Grace, Part 1 (, 18890 words)
+[2025-09-14 21:05:17,391] [36/89] Saved: Abraham--Justified by Grace, Part 2 (, 18590 words)
+[2025-09-14 21:05:23,173] [37/89] Saved: Adam and the Reign of Death (, 19210 words)
+[2025-09-14 21:05:29,223] [38/89] Saved: Accents of Love (, 16660 words)
+[2025-09-14 21:05:35,111] [39/89] Saved: Abstaining from Sexual Sin, Part 1 (, 12764 words)
+[2025-09-14 21:05:41,114] [40/89] Saved: Abstaining from Sexual Sin, Part 2 (, 14514 words)
+[2025-09-14 21:05:46,590] [41/89] Saved: Adoring God for Our Eternal Inheritance, Part 1 (, 12422 words)
+[2025-09-14 21:05:51,573] [42/89] Saved: Adoring God for Our Eternal Inheritance, Part 2 (, 14762 words)
+[2025-09-14 21:05:56,988] [43/89] Saved: Apostates, Be Warned, Part 1 (, 13982 words)
+[2025-09-14 21:06:02,682] [44/89] Saved: Apostates, Be Warned, Part 2 (, 16728 words)
+[2025-09-14 21:06:07,570] [45/89] Saved: Apostates Illustrated (, 16164 words)
+[2025-09-14 21:06:12,684] [46/89] Saved: Angelic Messengers (, 15270 words)
+[2025-09-14 21:06:18,957] [47/89] Saved: Alive Through Christ's Death (, 11842 words)
+[2025-09-14 21:06:23,373] [48/89] Saved: Abraham: The Old Testament Pattern of Saving Faith, Part 1 (, 14384 words)
+[2025-09-14 21:06:29,149] [49/89] Skipped duplicate content hash: Abraham: The Old Testament Pattern of Saving Faith, Part 1
+[2025-09-14 21:06:32,577] [50/89] Saved: Abraham: The Old Testament Pattern of Saving Faith, Part 2 (, 11776 words)
+[2025-09-14 21:06:38,532] [51/89] Skipped duplicate content hash: Abraham: The Old Testament Pattern of Saving Faith, Part 2
+[2025-09-14 21:06:42,028] [52/89] Saved: Abraham: The Old Testament Pattern of Saving Faith, Part 3 (, 12232 words)
+[2025-09-14 21:06:47,774] [53/89] Skipped duplicate content hash: Abraham: The Old Testament Pattern of Saving Faith, Part 3
+[2025-09-14 21:06:51,943] [54/89] Saved: Abraham: The Old Testament Pattern of Saving Faith, Part 4 (, 14924 words)
+[2025-09-14 21:06:57,321] [55/89] Skipped duplicate content hash: Abraham: The Old Testament Pattern of Saving Faith, Part 4
+[2025-09-14 21:07:01,136] [56/89] Saved: An Appeal to Charismatic Pretenders (John MacArthur) (, 13088 words)
+[2025-09-14 21:07:06,363] [57/89] Skipped duplicate content hash: An Appeal to Charismatic Pretenders (John MacArthur)
+[2025-09-14 21:07:09,896] [58/89] Saved: Antichrist Unleashed (, 15720 words)
+[2025-09-14 21:07:16,293] [59/89] Skipped duplicate content hash: Antichrist Unleashed
+[2025-09-14 21:07:21,082] [60/89] Saved: Acceptable Worship, Part 1 (, 11168 words)
+[2025-09-14 21:07:26,604] [61/89] Skipped duplicate content hash: Acceptable Worship, Part 1
+[2025-09-14 21:07:30,156] [62/89] Saved: Acceptable Worship, Part 2 (, 11854 words)
+[2025-09-14 21:07:35,559] [63/89] Skipped duplicate content hash: Acceptable Worship, Part 2
+[2025-09-14 21:07:40,356] [64/89] Saved: Act Like Men (, 15494 words)
+[2025-09-14 21:07:46,196] [65/89] Skipped duplicate content hash: Act Like Men
+[2025-09-14 21:07:50,140] [66/89] Saved: Aggressively Attacking the Sin in Our Lives (, 15068 words)
+[2025-09-14 21:07:54,698] [67/89] Saved: Assorted Attacks on the Bible (, 16572 words)
+[2025-09-14 21:07:59,784] [68/89] Skipped duplicate content hash: Assorted Attacks on the Bible
+[2025-09-14 21:08:03,342] [69/89] Saved: Abel:  A Primitive Faith (, 15940 words)
+[2025-09-14 21:08:08,995] [70/89] Skipped duplicate content hash: Abel:  A Primitive Faith
+[2025-09-14 21:08:12,623] [71/89] Saved: Abraham: An Exemplary Faith (, 18772 words)
+[2025-09-14 21:08:17,817] [72/89] Skipped duplicate content hash: Abraham: An Exemplary Faith
+[2025-09-14 21:08:21,507] [73/89] Saved: Abusing the Goodness of God (, 13018 words)
+[2025-09-14 21:08:26,597] [74/89] Skipped duplicate content hash: Abusing the Goodness of God
+[2025-09-14 21:08:29,883] [75/89] Saved: Abortion and the Campaign for Immorality (, 13400 words)
+[2025-09-14 21:08:35,129] [76/89] Skipped duplicate content hash: Abortion and the Campaign for Immorality
+[2025-09-14 21:08:40,024] [77/89] Saved: Assault On God's Design for Marriage (, 17718 words)
+[2025-09-14 21:08:45,895] [78/89] Saved: Atonement and Justification (2007 Resolved Conference) (, 15676 words)
+[2025-09-14 21:08:51,522] [79/89] Saved: Answering the Key Questions About the Doctrine of Election (, 19088 words)
+[2025-09-14 21:08:57,080] [80/89] Saved: Answering Big Questions About the Sovereignty of God (, 21666 words)
+[2025-09-14 21:09:02,329] [81/89] Saved: Answering Contemporary Challenges to Scripture: John MacArthur with Phil Johnson (, 16216 words)
+[2025-09-14 21:09:07,897] [82/89] Saved: Al Sanders Interviews John MacArthur (, 8678 words)
+[2025-09-14 21:09:12,979] [83/89] Saved: Answering Key Questions About Homosexuality (, 19482 words)
+[2025-09-14 21:09:18,662] [84/89] Saved: Are We Preachers or Witch Doctors? (Conrad Mbewe) (, 9402 words)
+[2025-09-14 21:09:24,235] [85/89] Skipped duplicate content hash: Are We Preachers or Witch Doctors? (Conrad Mbewe)
+[2025-09-14 21:09:29,344] [86/89] Saved: An Appeal to Charismatic Friends (John MacArthur) (, 14358 words)
+[2025-09-14 21:09:34,686] [87/89] Skipped duplicate content hash: An Appeal to Charismatic Friends (John MacArthur)
+[2025-09-14 21:09:37,688] [88/89] Saved: Another Look at the Charismatic Movement: Strange Fire Six Years Later (Phil Johnson) (, 18448 words)
+[2025-09-14 21:09:42,989] [89/89] Skipped duplicate content hash: Another Look at the Charismatic Movement: Strange Fire Six Years Later (Phil Johnson)
+[2025-09-14 21:09:43,082] Finished GTY bulk scrape.

@@ -1,0 +1,128 @@
+[2025-09-14 19:29:30] ============================================================
+[2025-09-14 19:29:30] Started SIM-ONE MVLM dataset build (2025-09-14 19:29:30.660420)
+[2025-09-14 19:29:30] Stub: Loading additional authors from Project Gutenberg tags.
+[2025-09-14 19:29:30] Stub: Loading additional authors from Kaggle datasets.
+[2025-09-14 19:29:30] Processing author: John Wesley - 3 books
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 1' by John Wesley [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 2' by John Wesley [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 3' by John Wesley [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Processing author: John Bunyan - 3 books
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 1' by John Bunyan [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 2' by John Bunyan [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 3' by John Bunyan [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Processing author: D.L. Moody - 3 books
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 1' by D.L. Moody [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 2' by D.L. Moody [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 3' by D.L. Moody [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Processing author: Watchman Nee - 3 books
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 1' by Watchman Nee [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 2' by Watchman Nee [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 3' by Watchman Nee [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Processing author: A.W. Tozer - 3 books
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 1' by A.W. Tozer [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 2' by A.W. Tozer [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 3' by A.W. Tozer [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Processing author: C.S. Lewis - 3 books
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 1' by C.S. Lewis [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 2' by C.S. Lewis [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 3' by C.S. Lewis [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Processing author: Charles Spurgeon - 3 books
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 1' by Charles Spurgeon [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 2' by Charles Spurgeon [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 3' by Charles Spurgeon [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Processing author: Andrew Murray - 3 books
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 1' by Andrew Murray [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 2' by Andrew Murray [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] Added: 'Collected Works Vol 3' by Andrew Murray [biblical_classical/bible] - 14 words
+[2025-09-14 19:29:32] --------------------------------------------------
+[2025-09-14 19:29:32] ----- Dataset Build Summary -----
+[2025-09-14 19:29:32] Authors processed:  8
+[2025-09-14 19:29:32] Works ingested:     24
+[2025-09-14 19:29:32] Works skipped - duplicates: 0
+[2025-09-14 19:29:32] Works skipped - non-English: 0
+[2025-09-14 19:29:32] Errors encountered: 0
+[2025-09-14 19:29:32] Elapsed time:       2025-09-14 19:29:32.129920
+[2025-09-14 19:29:32] ============================================================
+[2025-09-14 19:35:32] ============================================================
+[2025-09-14 19:35:32] Started SIM-ONE MVLM dataset build (2025-09-14 19:35:32.772340)
+[2025-09-14 19:35:32] Stub: Loading additional authors from Project Gutenberg tags.
+[2025-09-14 19:35:32] Stub: Loading additional authors from Kaggle datasets.
+[2025-09-14 19:35:32] Processing author: Andrew Murray - 3 books
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 1' by Andrew Murray [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 2' by Andrew Murray [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 3' by Andrew Murray [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Processing author: C.S. Lewis - 3 books
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 1' by C.S. Lewis [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 2' by C.S. Lewis [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 3' by C.S. Lewis [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Processing author: Charles Spurgeon - 3 books
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 1' by Charles Spurgeon [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 2' by Charles Spurgeon [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 3' by Charles Spurgeon [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Processing author: D.L. Moody - 3 books
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 1' by D.L. Moody [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 2' by D.L. Moody [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 3' by D.L. Moody [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Processing author: Watchman Nee - 3 books
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 1' by Watchman Nee [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 2' by Watchman Nee [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 3' by Watchman Nee [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Processing author: John Wesley - 3 books
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 1' by John Wesley [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 2' by John Wesley [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 3' by John Wesley [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Processing author: John Bunyan - 3 books
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 1' by John Bunyan [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 2' by John Bunyan [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 3' by John Bunyan [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Processing author: A.W. Tozer - 3 books
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 1' by A.W. Tozer [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 2' by A.W. Tozer [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] Added: 'Collected Works Vol 3' by A.W. Tozer [biblical_classical/bible] - 14 words
+[2025-09-14 19:35:33] --------------------------------------------------
+[2025-09-14 19:35:33] ----- Dataset Build Summary -----
+[2025-09-14 19:35:33] Authors processed:  8
+[2025-09-14 19:35:33] Works ingested:     24
+[2025-09-14 19:35:33] Works skipped - duplicates: 0
+[2025-09-14 19:35:33] Works skipped - non-English: 0
+[2025-09-14 19:35:33] Errors encountered: 0
+[2025-09-14 19:35:33] Elapsed time:       2025-09-14 19:35:33.241070
+[2025-09-14 19:35:33] ============================================================
+[2025-09-14 19:35:42] ============================================================
+[2025-09-14 19:35:42] Started SIM-ONE MVLM dataset build (2025-09-14 19:35:42.922455)
+[2025-09-14 19:35:42] Scraping https://en.wikipedia.org/wiki/List_of_Christian_writers ...
+[2025-09-14 19:35:44] Scraping https://en.wikipedia.org/wiki/List_of_Christian_theologians ...
+[2025-09-14 19:35:45] Scraping https://en.wikipedia.org/wiki/List_of_Christian_apologists ...
+[2025-09-14 19:35:45] Auto-added 0 new authors (Wikipedia/public lists).
+[2025-09-14 19:36:00] Processing author: A.W. Tozer - 0 books
+[2025-09-14 19:36:18] Processing author: Andrew Murray - 0 books
+[2025-09-14 19:36:25] Processing author: C.S. Lewis - 0 books
+[2025-09-14 19:36:39] Processing author: Charles Spurgeon - 0 books
+[2025-09-14 19:36:50] Processing author: D.L. Moody - 0 books
+[2025-09-14 19:37:20] Processing author: John Bunyan - 0 books
+[2025-09-14 19:37:50] Processing author: John Wesley - 0 books
+[2025-09-14 19:37:52] Processing author: Watchman Nee - 0 books
+[2025-09-14 19:37:52] --------------------------------------------------
+[2025-09-14 19:37:52] ----- Dataset Build Summary -----
+[2025-09-14 19:37:52] Authors processed:  8
+[2025-09-14 19:37:52] Works ingested:     0
+[2025-09-14 19:37:52] Works skipped - duplicates: 0
+[2025-09-14 19:37:52] Works skipped - non-English: 0
+[2025-09-14 19:37:52] Errors encountered: 0
+[2025-09-14 19:37:52] Elapsed time:       2025-09-14 19:37:52.241508
+[2025-09-14 19:37:52] ============================================================
+[2025-09-14 19:38:27] ============================================================
+[2025-09-14 19:38:27] Started SIM-ONE MVLM dataset build (2025-09-14 19:38:27.009119)
+[2025-09-14 19:38:27] Scraping https://en.wikipedia.org/wiki/List_of_Christian_writers ...
+[2025-09-14 19:38:27] Scraping https://en.wikipedia.org/wiki/List_of_Christian_theologians ...
+[2025-09-14 19:38:28] Scraping https://en.wikipedia.org/wiki/List_of_Christian_apologists ...
+[2025-09-14 19:38:29] WARNING: No new authors auto-added.
+[2025-09-14 19:53:57] ============================================================
+[2025-09-14 19:53:57] Started SIM-ONE MVLM dataset build (2025-09-14 19:53:57.418977)
+[2025-09-14 19:53:57] Scraping https://en.wikipedia.org/wiki/List_of_Christian_writers ...
+[2025-09-14 19:53:58] Scraping https://en.wikipedia.org/wiki/List_of_Christian_theologians ...
+[2025-09-14 19:53:59] Scraping https://en.wikipedia.org/wiki/List_of_Christian_apologists ...
+[2025-09-14 19:53:59] WARNING: No new authors auto-added.
+[2025-09-14 19:54:06] Processing author: A.W. Tozer - 0 books
+[2025-09-14 19:54:27] Processing author: Andrew Murray - 0 books
+[2025-09-14 19:54:48] Processing author: C.S. Lewis - 0 books
